@@ -3,13 +3,13 @@ layout: page
 title: User Guide
 ---
 
-## Introduction
+## Introduction <a name="introduction"></a>
 
 A warm welcome to all home bakers to our Strack.io User Guide! Strack.io is designed to cater to all your needs, be it creating your menu, recording of customer information, or even tracking of orders. Strack.io aims to help you reduce the number of errors and improve your overall quality of life when tracking and managing orders. Here, you will find all the necessary information you need to kickstart your Strack.io journey. Don't forget to **make snacks, keep track, and use Strack!**
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Purpose
+## Purpose <a name="purpose"></a>
 
 This User Guide serves both as a tutorial and as an instruction manual to our Strack.io application.
 To start learning using our app, you can take a look at the Quick Start section, and try out the different commands for yourself.
@@ -27,8 +27,9 @@ Strack.io is a **desktop app for home bakers to manage contacts of their custome
 a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type
 fast, Strack.io can get your customer and order management tasks done faster than traditional GUI apps.
 
-* Table of Contents
-{:toc}
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Purpose](#purpose)
 
 --------------------------------------------------------------------------------------------------------------------
 
