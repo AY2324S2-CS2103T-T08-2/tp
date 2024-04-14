@@ -21,7 +21,7 @@ As you read through this user guide, you will learn about:
 * Constraints of input format in order for our app to run normally
 * Auxiliary capabilities of Strack.io application, including saving and exportation of data.
 
-## Overview
+## Overview <a name="overview"></a>
 
 Strack.io is a **desktop app for home bakers to manage contacts of their customers, optimized for use via 
 a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type
@@ -29,11 +29,21 @@ fast, Strack.io can get your customer and order management tasks done faster tha
 
 # Table of Contents
 1. [Introduction](#introduction)
+   - Welcome and purpose of Strack.io
+   - How Strack.io can help you
 2. [Purpose](#purpose)
+   - How to use this guide
+   - Features and functions overview
+3. [Overview](#overview)
+   - About Strack.io
+   - Benefits of using the CLI and GUI
+4. [Quick Start](#start)
+   - Installation requirements
+   - Downloading and running Strack.io
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Quick start
+## Quick start <a name="start"></a>
 
 1. Ensure you have Java `11` or above installed in your Computer.
 
