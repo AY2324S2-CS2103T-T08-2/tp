@@ -54,7 +54,9 @@ PersonListPanel --|> UiPart
 PersonCard --|> UiPart
 StatusBarFooter --|> UiPart
 HelpWindow --|> UiPart
+OrderListPanel --|> UiPart
 OrderCard --|> UiPart
+ProductMenuPanel --|> UiPart
 ProductCard --|> UiPart
 
 PersonCard ..> Model
